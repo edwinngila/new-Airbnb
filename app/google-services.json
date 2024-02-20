@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717196035482",
+    "project_id": "saviceapp-6c41c",
+    "storage_bucket": "saviceapp-6c41c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717196035482:android:8302210cf47fc74f706623",
+        "android_client_info": {
+          "package_name": "com.example.airbnb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT_XBngMikSY-fBvN7FfQISkYqFfAYCpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
